@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".Register">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/latar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/latar_1"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:layout_alignBottom="@id/latar"
+            android:background="@drawable/shape1" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_alignBottom="@id/latar">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create New Account"
+                android:textColor="@android:color/holo_orange_light"
+                android:typeface="serif"
+                android:textStyle="bold"
+                android:layout_marginBottom="50dp"
+                android:textSize="30dp"/>
+            <EditText
+                android:id="@+id/Email"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:hint="Email"
+                android:inputType="textEmailAddress" />
+            <EditText
+                android:id="@+id/Password"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:hint="Password"
+                android:inputType="textPassword"
+                />
+
+            <Button
+                android:id="@+id/btn_sign2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="30dp"
+                android:background="@android:color/holo_orange_light"
+                android:text="Sign Up" />
+
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

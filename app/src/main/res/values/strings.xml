@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">recipeApp</string>
+    <string name="spagetti">Ingredients : \n\n
+                        1 tbsp olive oil \n
+                        1 brown onion, chopped \n
+                        1 garlic clove, finely chopped \n
+                        1 tsp dried mixed herbs \n
+                        400g tin tomatoes \n
+                        500ml/18fl oz vegetable or beef stock (from a cube) \n
+                        400g/14oz dried spaghetti \n
+                        salt and pepper \n \n
+
+                        Steps :\n \n
+                        1. Heat a large saucepan over a medium heat and add the olive oil. Once hot, add the onion and cook gently without browning for 4–5 minutes,
+                        or until softened and translucent. Add the garlic, continue to cook for 2 minutes until aromatic,
+                        then add the dried herbs, tomatoes and stock. Bring the sauce to a simmer,
+                        reduce the heat and simmer gently while you make the meatballs. \n\n
+                        2. For the meatballs, mix together the beef, garlic and herbs along with a decent pinch of salt and pepper.
+                        Using wet hands roll into 20 balls.\n\n
+                        3. Heat a frying pan over a medium heat and add the olive oil. Once hot, fry the meatballs on all sides until nicely coloured, being careful not to burn them. You may need to do this in batches. Transfer to the saucepan containing the sauce./n
+                        4. Continue to simmer the sauce for 10 minutes while you cook the spaghetti.\n\n
+                        5. Bring a large saucepan water to the boil, add a pinch of salt and cook the spaghetti according to the packet instructions. Once cooked, drain and tip into the saucepan with the meatball sauce. Mix well and serve hot.\n
+    </string>
+    <string name="friedRice"> Ingredients : \n\n
+                                    1. A fillet of salmon\n
+                                    2. 10 medium sized shrimp\n
+                                    3. A stalk of celery\n
+                                    4. A couple slices of bell pepper\n
+                                    5. Half a carrot\n
+                                    6. 1 1/4 of uncooked rice\n
+                                    7. 2 cups of water\n
+                                    8. Olive oil\n \n
+                            Steps:\n\n
+                            1. Pour the rice into a separate bowl and add water (this doesnt need to be measured since this is for washing the rice only.
+                            Stir the rice around several times and pour out the water. Repeat for 2 more times. After, add the 2 cups of water to the washed rice and pour the mixture into the rice cooker.
+                            Usually it takes around 30 minutes for the rice to cook.\n\n
+                            2. Take out the salmon and shrimp. If they are frozen, soak them in water for about 5 minutes.
+                            Chop into small pieces to be added to the rice later.\n\n
+                            3. Take out all the vegetables youve gathered and chop into small pieces. This is to be added to the fried rice later.
+                            If you want the vegetables to be soft, you can boil them for a couple of minutes.\n\n
+                            4. Make some seasoning with salt or whatever suits your tastes. I used salt, soy sauce, and sugar.
+                            Cool down the cooked rice. While waiting for the rice to cool, heat up a saucepan to medium high with some olive oil and add the salmon and shrimp. After the seafood is cooked halfway, add the vegetables and cook for a little longer.
+                            Add the rice and seasoning. Cook for about 3 more minutes and take off the heat.\n
+    </string>
+    <string name="salmon"> Ingredients : \n\n
+                            1 1 1/2 pounds salmon fillets\n
+                            2. lemon pepper to taste\n
+                            3. garlic powder to taste\n
+                            4. salt to taste1/3 cup soy sauce\n
+                            5. 1/3 cup brown sugar\n
+                            6. 1/3 cup water\n
+                            7. 1/4 cup vegetable oil\n\n
+
+                            Steps:\n\n
+                            1. Season salmon fillets with lemon pepper, garlic powder, and salt.\n\n
+                            2. In a small bowl, stir together soy sauce, brown sugar, water, and vegetable oil until sugar is
+                            dissolved.
+                            Place fish in a large resealable plastic bag with the soy sauce mixture, seal, and turn to coat.
+                            Refrigerate for at least 2 hours.\n\n
+                            3. Preheat grill for medium heat.\n\n
+                            4. Lightly oil grill grate. Place salmon on the preheated grill, and discard marinade. Cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork.\n
+                        </string>
+    <string name="latte"> Ingredients : \n\n
+                            1. 1/2 cup instant coffee granules \n
+                            2. 1/2 cup boiling water\n
+                            3. 4 cups chocolate milk\n
+                            4. 2 cups cold water\n
+                            5. 1 can (14 ounces) sweetened condensed milk\n
+                            6. Ice cubes\n\n
+                          Steps : \n\n
+                             1. In a large bowl, dissolve coffee in boiling water.
+                            Stir in the chocolate milk, cold water and condensed milk. Serve over ice. \n
+
+    </string>
+    <string name="blue"> Ingredients : \n\n
+                            1. 1 shot 1 oz. Curacao \n
+                            2. 1 shot 1 oz. vodka\n
+                            3. Lemonade\n
+                            4. Ice\n
+                            5. Maraschino cherry\n\n
+                        Steps: \n\n
+                            1. Fill a tall glass with ice. \n
+                            2. Add the Curacao, then the vodka.\n
+                            3. Top with lemonade.\n
+                            4. Garnish with cherry.\n
+    </string>
+    <string name="red">Ingredients : \n\n
+                        1.  25 ml shot Vodka\n
+                         2. Lemonade\n
+                         3. Blackcurrant Cordial\n
+                         4. 1 25 ml shot Strawberry Liqueur\n\n
+                        Steps : \n\n
+                        1. Add ice to a pint glass then pour in 1 shot of vodka,
+                        1 shot of strawberry liqueur and drizzle in blackcurrant cordial. Stir then top up with lemonade. /n
+    </string>
+    <string name="cake">Ingredients : \n\n
+        1. 1 1/3 cups all-purpose flour \n
+        2. 1/4 teaspoon baking soda2 teaspoons baking powder\n
+        3. 3/4 cup unsweetened cocoa powder\n
+        4. 1/8 teaspoon salt\n
+        5. 3 tablespoons butter, softened1\n
+        6. 1/2 cups white sugar\n
+        7. 2 eggs\n
+        8. 3/4 teaspoon vanilla extract\n
+        9. 1 cup milk\n\n
+
+        Steps :\n\n
+        1.Preheat oven to 350 degrees F (175 degrees C). Line a muffin pan with paper or foil liners.
+        Sift together the flour, baking powder, baking soda, cocoa and salt. Set aside.\n\n
+        2. In a large bowl, cream together the butter and sugar until light and fluffy.
+        Add the eggs one at a time, beating well with each addition, then stir in the vanilla.
+        Add the flour mixture alternately with the milk; beat well. Fill the muffin cups 3/4 full.\n\n
+        3. Bake for 15 to 17 minutes in the preheated oven, or until a toothpick inserted into the cake comes out clean.
+        Frost with your favorite frosting when cool.\n
+    </string>
+    <string name="pie">Ingredients : \n\n
+                        1. 2 pie crusts (recipe below)\n
+                        2. 1 large egg , beaten\n
+                        3. 1 cup fresh blackberries\n
+                        4. 2 cups fresh raspberries\n
+                        5. 1 1/2 cups fresh blueberries\n
+                        6. 1/2 cup white sugar\n
+                        7. 3 tablespoons cornstarch\n
+                        8. 2 tablespoons unsalted butter\n\n
+                    Steps:\n\n
+                        1. Place the first pie crust in the bottom of the pie plate and brush the pie crust in the pie plate with half the egg.\n\n
+                        2. Toss the fruit with the sugar and cornstarch until no visible cornstarch is left then pour
+                        it in the pie crust and top with the butter.\n\n
+                        3. Top with the second pie crust, trim excess, brush with the remaining amount of egg.\n\n
+                        4. Bake at 425 degrees with the edges covered in foil for 15 minutes then reduce to 375 degrees,
+                        remove the foil, and bake for an additional 30 minutes before cooling completely.\n
+    </string>
+    <string name="caramel"> Ingredients : \n\n
+        1. 225g softened salted butter plus extra for the tins\n
+        2. 125g golden caster sugar\n
+        3. 100g light brown soft sugar\n
+        4. 1 tsp vanilla extract\n
+        5. 4 large eggs\n
+        6. 225g self raising flour\n
+        7. 2 tbsp milk\n
+        8. toffee, chocolate or caramel pieces, to decorate\n\n
+
+        Steps:\n\n
+        1. Heat the oven to 180C/160C fan/gas 4. Butter two 20cm springform tins and line the bases with baking parchment.\n\n
+        2. Beat the butter and both sugars in a bowl with an electric whisk for a few mins until lighter in colour and fluffy. Add the vanilla and the eggs, one at a time, adding a spoonful of flour and beating in between each egg. Add the remaining flour and milk. Divide between the cake tins and bake for 25-30 mins until they’re golden, spring back when pressed, and a skewer comes out clean when inserted into the middle.
+        Cool in the tins for a few mins, then tip out and leave to cool completely on a wire rack.\n\n
+        3. Meanwhile, for the icing, put the butter and icing sugar in a bowl and whisk for a few mins until light and airy. Whisk in the caramel briefly, adding 1 tbsp of boiling water to loosen, if needed.
+        Set aside until the sponges are completely cool before assembling, or the icing will melt.\n\n
+        4. Use half the icing to sandwich the cakes together, then spread the remainder over the top, smoothing it out with a knife or the back of a spoon. Leave in a cool place until ready to serve. Drizzle with the 3 tbsp extra sauce (warm briefly in the microwave if it’s a little stiff ), allowing some to drip down the sides if you like, and scatter over the toffee, chocolate or caramel pieces to serve. Edible glitter, birthday candles or sparklers, optional.\n
+    </string>
+
+</resources>
